@@ -43,24 +43,37 @@
 ----------
 
 ## Combine Shapes
+Combine shapes can be achiev with pathfinder or Shape builder tool
 
-- Pathfinder tool  
+### Pathfinder tool  
 ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/pathfinder-panel.png "pathfinder tool")
 ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/pathfinder-menu.png "pathfinder menu")
 
-### Shape Models
+*Original Shape*  
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/original.png "original shape")
+
+#### Shape Models
 1. Unite  
-![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/unite.png "unite") => 
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/unite.png "unite") = 
 ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/unite-result.png "unite result")  
 
 2. Minus Front  
-![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/minus-front.png "minus front") => 
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/minus-front.png "minus front") = 
 ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/minus-front-result.png "minus front result")
 
 3. Intersect  
-![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/intersect.png "intersect") => 
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/intersect.png "intersect") = 
 ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/intersect-result.png "intersect")
 
 4. Exclude  
-![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/exclude.png "exclude") => 
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/exclude.png "exclude") = 
 ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/exclude-result.png "exclude") 
+
+### Shape Builder tool `Shift + M`
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/shape-builder-tool.png "shape builder tool")
+
+1. Unite shapes `Shift + M and paint over the shapes`
+
+2. Substract shapes `alt + shape builder tool`
+
+3. Expand Strokes to shape `Select stroke > Object > Expand`
