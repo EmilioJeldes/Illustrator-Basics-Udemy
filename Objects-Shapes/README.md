@@ -86,7 +86,7 @@ On selected objects, the selection options pops up
 
 2. Align panel (on selected)  
 ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/align-panel.png "Align panel")  
-![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/align-panel.png "Align panel")  
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/align-menu.png "Align panel")  
 	- Distribute all space from the artboard:  
 	On align to: `Align to artboard`  
 	`Horizontal distribute space`
