@@ -77,3 +77,19 @@ Combine shapes can be achiev with pathfinder or Shape builder tool
 2. Substract shapes `alt + shape builder tool`
 
 3. Expand Strokes to shape `Select stroke > Object > Expand`
+
+## Align Objects
+On selected objects, the selection options pops up
+
+1. Align Options (on selected)  
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/align-options.png "Align Options")
+
+2. Align panel (on selected)  
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/align-panel.png "Align panel")  
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/align-panel.png "Align panel")  
+	- Distribute all space from the artboard:  
+	On align to: `Align to artboard`  
+	`Horizontal distribute space`
+	- Distribute on a specific amount of px | mm | inches  
+	On align to: `Align to key object`  
+	`Horizontal distribute space`
