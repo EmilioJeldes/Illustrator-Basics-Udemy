@@ -1,5 +1,7 @@
 # Objects and Shapes
 
+## Create Basic Shapes
+
 1.	[Rectangle | Elipse | Polygon | Star Tool] `M`  
 ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/rectangle-tool.png "rectangle tool")  
 [Rectangle | Elipse | Polygon | Star Tool] Menu  
@@ -14,9 +16,12 @@
 5. `Up` and `Down` arrow keys on creating a Polygon or a Star to change the number
 
 6. Select object: fill color | stroke color | stroke width  
-![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/rectangle-options.png "rectangle tool")  
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/rectangle-options.png "rectangle tool")
+----------
 
-7. Transform panel  
+## Transform
+
+1. Transform panel  
 ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/transform-panel.png "transform panel")  
 
 8. Transform Menu  
@@ -33,3 +38,29 @@
 
 10. Anchor object  
 ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/obj-anchor.png "object anchor")  
+
+11. Show Bounding Box `View > Show Bounding Box`  
+----------
+
+## Combine Shapes
+
+- Pathfinder tool  
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/pathfinder-panel.png "pathfinder tool")
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/pathfinder-menu.png "pathfinder menu")
+
+### Shape Models
+1. Unite  
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/unite.png "unite") => 
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/unite-result.png "unite result")  
+
+2. Minus Front  
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/minus-front.png "minus front") => 
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/minus-front-result.png "minus front result")
+
+3. Intersect  
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/intersect.png "intersect") => 
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/intersect-result.png "intersect")
+
+4. Exclude  
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/exclude.png "exclude") => 
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/obj-shape-img/exclude-result.png "exclude") 
