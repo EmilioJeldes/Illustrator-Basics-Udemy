@@ -28,7 +28,7 @@
 
 10. Isolation mode (edit a group) double click on a group to edit single componets
 
-11. Paste in front `CMD + F` || `Edit > Paste in front`
+11. Paste in front `Cmd + F` || `Edit > Paste in front`
 
 12. Arrange objects (zindex) `Right click > Arrange`
 
