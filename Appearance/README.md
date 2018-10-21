@@ -49,7 +49,7 @@
    ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/appearance/gradient/gradient-panel.png 'gradient panel')  
 
 3. Gradient menu  
-	1. Gradient on fill
+	1. Gradient on fill  
    ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/appearance/gradient/gradient-menu.png 'gradient menu')  
 
 		- Type: Linear || Radial  
@@ -71,12 +71,13 @@
 		- Stroke options  
 		- Fill options  
 		Can controll opacity on each one or add gradient  
-		Can control blending mode, *multiply* to fusion both layers
+		Can control blending mode, *multiply* to fusion both layers  
 
 1. Appearance menu options  
-   ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/appearance/appearance-menu-options.png 'appearance menu options')  	- Add new stroke
-		- Add new fill
-		- Add new effect
-		- Clear appearance
-		- Duplicate selected item
-		- Delete selected item
+   ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/appearance/appearance-menu-options.png 'appearance menu options')  
+   		- Add new stroke  
+		- Add new fill  
+		- Add new effect  
+		- Clear appearance  
+		- Duplicate selected item  
+		- Delete selected item  
