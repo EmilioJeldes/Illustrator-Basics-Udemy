@@ -40,3 +40,11 @@
 15.  Width Tool `Shift + W`   
 ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/basic/width-tool.png "width tool")  
 
+16. Lock selected object `Cmd + 2`
+
+17. Eraser Tool `Shift + E`  
+With alt and drag you can crop an illustration
+
+18. Outline View `Cmd + Y`
+
+
