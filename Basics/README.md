@@ -32,3 +32,11 @@
 
 12. Arrange objects (zindex) `Right click > Arrange`
 
+13.  Eyedrop Tool `I`   
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/basic/eyedrop-tool.png "eyedrop tool")  
+
+14.  Resize keeping center `alt + shift + Drag`
+
+15.  Width Tool `Shift + W`   
+![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/basic/width-tool.png "width tool")  
+
