@@ -63,3 +63,20 @@
 	2. Gradient on stroke  
 	![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/appearance/gradient/gradient-stroke.png 'gradient stroke')  
 	Apply gradient: within || along || across stroke  
+
+## Appearance Panel
+
+1. Appearance menu  
+   ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/appearance/appearance-menu.png 'appearance menu')  
+		- Stroke options  
+		- Fill options  
+		Can controll opacity on each one or add gradient  
+		Can control blending mode, *multiply* to fusion both layers
+
+1. Appearance menu options  
+   ![alt-text](https://github.com/EmilioJeldes/Illustrator-Basics-Udemy/blob/master/imgs/appearance/appearance-menu-options.png 'appearance menu options')  	- Add new stroke
+		- Add new fill
+		- Add new effect
+		- Clear appearance
+		- Duplicate selected item
+		- Delete selected item
